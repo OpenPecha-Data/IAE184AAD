@@ -1,0 +1,39 @@
+id: IAE184AAD
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T13:22:34.459900'
+last_modified: '2022-06-19T13:22:34.459918'
+parser: null
+source_metadata:
+  title: Hagiography of rGyal ba brag phug pa (1277-1346/50?); Lamdre Lobshe, vol.
+    ka, title no. 16, from the chronological biographies of the Lamdre lineage masters
+  author: ri khrod pa blo bros brtan pa/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-19); converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/367
+  bases:
+    b629:
+      title: Hagiography of rGyal ba brag phug pa (1277-1346/50?); Lamdre Lobshe,
+        vol. ka, title no. 16, from the chronological biographies of the Lamdre lineage
+        masters
+      order: 1
+      base_file: b629.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
